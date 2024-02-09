@@ -16,8 +16,6 @@ Selecionamos o nosso recurso como recurso padrão:
 
 <img align="right" src="/Imagens/Desafio 3/02.png" width="1800px"/>  
 
-Em seguida, selecionomos o bloco Detectar rostos em uma imagem:  
-
 <img align="right" src="/Imagens/Desafio 3/03.png" width="1800px"/> 
 
 <img align="right" src="/Imagens/Desafio 3/04.png" width="1800px"/> 
